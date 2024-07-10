@@ -106,6 +106,105 @@ main{
     margin-left: 140px;
     margin-right: 145px;
 }
+
+.inspiration{
+    width: 1083px;
+    margin-left: 40px;
+     margin-right: 145px;
+     display: flex;
+     flex-direction: column;
+     justify-content: flex-start;
+     align-items: center;
+     margin-bottom: 48px;
+}
+
+.video{
+    padding: 32px 32px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    margin-bottom: 149px;
+    margin-top: 48px;
+}
+.skill{
+    display: flex;
+    margin-top: 48px;
+}
+.allskill{
+    width: 1083px;
+    margin-left: 40px;
+    margin-right: 145px;
+}
+#htmlskl{
+    width: 346px;
+height: 300px;
+padding: 40px;
+border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+margin: 0px 24px;
+}
+#css_skl{
+    width: 346px;
+    height: 300px;
+    padding: 40px;
+    margin: 0px 24px;
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+}
+#js_skl{
+    width: 346px;
+    height: 300px;
+    padding: 40px;
+    margin: 0px 24px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.hard{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+}
+.mng{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+opacity: 0.7;
+margin: 8px 0px;
+margin-bottom: 24px;
+}
+
+.uline{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+text-align: left;
+margin: 24px 0px;
+}
+.support{
+
+width: 1140px;
+height: 314px;
+left: 150px;
+right: 150px;
+top: 4752px;
+bottom: 179px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 64px 48px 64px 48px;
+
+
+    background-image: url(assets/handshake.jpg);
+}
+
 .dsc{
     width: 809px;
     padding: 80px 97px 80px 97px;
